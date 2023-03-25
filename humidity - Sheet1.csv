@@ -1,0 +1,325 @@
+state,place,month,rel_hum,lat,lon
+Uttar Pradesh ,Agra,January ,64,27.17667,78.008072
+Uttar Pradesh ,Agra,February,55,27.17667,78.008072
+Uttar Pradesh ,Agra,March,45,27.17667,78.008072
+Uttar Pradesh ,Agra,April,35,27.17667,78.008072
+Uttar Pradesh ,Agra,May,34,27.17667,78.008072
+Uttar Pradesh ,Agra,June,46,27.17667,78.008072
+Uttar Pradesh ,Agra,July ,72,27.17667,78.008072
+Uttar Pradesh ,Agra,August,77,27.17667,78.008072
+Uttar Pradesh ,Agra,September ,67,27.17667,78.008072
+Uttar Pradesh ,Agra,October,54,27.17667,78.008072
+Uttar Pradesh ,Agra,November,56,27.17667,78.008072
+Uttar Pradesh ,Agra,December,64,27.17667,78.008072
+Uttar Pradesh ,Allahabad,January,69,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,February,57,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,March,39,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,April,29,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,May,33,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,June,50,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,July,77,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,August,81,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,September,78,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,October,67,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,November,61,25.4358011,81.846311
+Uttar Pradesh ,Allahabad,December,68,25.4358011,81.846311
+Punjab ,Amritsar,January,74,31.63398,74.872261
+Punjab ,Amritsar,February,70,31.63398,74.872261
+Punjab ,Amritsar,March,64,31.63398,74.872261
+Punjab ,Amritsar,April,47,31.63398,74.872261
+Punjab ,Amritsar,May,38,31.63398,74.872261
+Punjab ,Amritsar,June,48,31.63398,74.872261
+Punjab ,Amritsar,July,72,31.63398,74.872261
+Punjab ,Amritsar,August,77,31.63398,74.872261
+Punjab ,Amritsar,September,69,31.63398,74.872261
+Punjab ,Amritsar,October,67,31.63398,74.872261
+Punjab ,Amritsar,November,73,31.63398,74.872261
+Punjab ,Amritsar,December,76,31.63398,74.872261
+Madhya Pradesh ,Indore,January,46,22.764351,75.891151
+Madhya Pradesh ,Indore,February,36,22.764351,75.891151
+Madhya Pradesh ,Indore,March,25,22.764351,75.891151
+Madhya Pradesh ,Indore,April,23,22.764351,75.891151
+Madhya Pradesh ,Indore,May,33,22.764351,75.891151
+Madhya Pradesh ,Indore,June,58,22.764351,75.891151
+Madhya Pradesh ,Indore,July,79,22.764351,75.891151
+Madhya Pradesh ,Indore,August,85,22.764351,75.891151
+Madhya Pradesh ,Indore,September,73,22.764351,75.891151
+Madhya Pradesh ,Indore,October,50,22.764351,75.891151
+Madhya Pradesh ,Indore,November,44,22.764351,75.891151
+Madhya Pradesh ,Indore,December,48,22.764351,75.891151
+Punjab,Ludhiana,January,74,30.900965,75.857277
+Punjab,Ludhiana,February,66,30.900965,75.857277
+Punjab,Ludhiana,March,62,30.900965,75.857277
+Punjab,Ludhiana,April,44,30.900965,75.857277
+Punjab,Ludhiana,May,39,30.900965,75.857277
+Punjab,Ludhiana,June,49,30.900965,75.857277
+Punjab,Ludhiana,July,71,30.900965,75.857277
+Punjab,Ludhiana,August,76,30.900965,75.857277
+Punjab,Ludhiana,September,68,30.900965,75.857277
+Punjab,Ludhiana,October,61,30.900965,75.857277
+Punjab,Ludhiana,November,68,30.900965,75.857277
+Punjab,Ludhiana,December,74,30.900965,75.857277
+Uttarakhand,Mukteswar,January,60,29.460415,79.655824
+Uttarakhand,Mukteswar,February,59,29.460415,79.655824
+Uttarakhand,Mukteswar,March,54,29.460415,79.655824
+Uttarakhand,Mukteswar,April,46,29.460415,79.655824
+Uttarakhand,Mukteswar,May,52,29.460415,79.655824
+Uttarakhand,Mukteswar,June,72,29.460415,79.655824
+Uttarakhand,Mukteswar,July,91,29.460415,79.655824
+Uttarakhand,Mukteswar,August,93,29.460415,79.655824
+Uttarakhand,Mukteswar,September,85,29.460415,79.655824
+Uttarakhand,Mukteswar,October,68,29.460415,79.655824
+Uttarakhand,Mukteswar,November,59,29.460415,79.655824
+Uttarakhand,Mukteswar,December,52,29.460415,79.655824
+Delhi,New Delhi,January,63,28.7041,77.1025
+Delhi,New Delhi,February,55,28.7041,77.1025
+Delhi,New Delhi,March,47,28.7041,77.1025
+Delhi,New Delhi,April,34,28.7041,77.1025
+Delhi,New Delhi,May,33,28.7041,77.1025
+Delhi,New Delhi,June,46,28.7041,77.1025
+Delhi,New Delhi,July,70,28.7041,77.1025
+Delhi,New Delhi,August,73,28.7041,77.1025
+Delhi,New Delhi,September,62,28.7041,77.1025
+Delhi,New Delhi,October,52,28.7041,77.1025
+Delhi,New Delhi,November,55,28.7041,77.1025
+Delhi,New Delhi,December,62,28.7041,77.1025
+Jammu and Kashmir,Srinagar,January,82,34.0837,74.7973
+Jammu and Kashmir,Srinagar,February,79,34.0837,74.7973
+Jammu and Kashmir,Srinagar,March,70,34.0837,74.7973
+Jammu and Kashmir,Srinagar,April,64,34.0837,74.7973
+Jammu and Kashmir,Srinagar,May,61,34.0837,74.7973
+Jammu and Kashmir,Srinagar,June,56,34.0837,74.7973
+Jammu and Kashmir,Srinagar,July,66,34.0837,74.7973
+Jammu and Kashmir,Srinagar,August,70,34.0837,74.7973
+Jammu and Kashmir,Srinagar,September,67,34.0837,74.7973
+Jammu and Kashmir,Srinagar,October,69,34.0837,74.7973
+Jammu and Kashmir,Srinagar,November,77,34.0837,74.7973
+Jammu and Kashmir,Srinagar,December,84,34.0837,74.7973
+Orissa (Odisha),Bhubaneshwar,January,66,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,February,61,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,March,63,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,April,66,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,May,66,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,June,74,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,July,83,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,August,93,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,September,83,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,October,76,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,November,66,20.2961,85.8245
+Orissa (Odisha),Bhubaneshwar,December,60,20.2961,85.8245
+Meghalaya,Cherrapunji,January,70,25.2702,91.7323
+Meghalaya,Cherrapunji,February,69,25.2702,91.7323
+Meghalaya,Cherrapunji,March,70,25.2702,91.7323
+Meghalaya,Cherrapunji,April,82,25.2702,91.7323
+Meghalaya,Cherrapunji,May,86,25.2702,91.7323
+Meghalaya,Cherrapunji,June,92,25.2702,91.7323
+Meghalaya,Cherrapunji,July,95,25.2702,91.7323
+Meghalaya,Cherrapunji,August,92,25.2702,91.7323
+Meghalaya,Cherrapunji,September,90,25.2702,91.7323
+Meghalaya,Cherrapunji,October,81,25.2702,91.7323
+Meghalaya,Cherrapunji,November,73,25.2702,91.7323
+Meghalaya,Cherrapunji,December,72,25.2702,91.7323
+Assam,Dibrugarh,January,80,27.4705,94.9125
+Assam,Dibrugarh,February,74,27.4705,94.9125
+Assam,Dibrugarh,March,68,27.4705,94.9125
+Assam,Dibrugarh,April,75,27.4705,94.9125
+Assam,Dibrugarh,May,76,27.4705,94.9125
+Assam,Dibrugarh,June,81,27.4705,94.9125
+Assam,Dibrugarh,July,85,27.4705,94.9125
+Assam,Dibrugarh,August,82,27.4705,94.9125
+Assam,Dibrugarh,September,85,27.4705,94.9125
+Assam,Dibrugarh,October,83,27.4705,94.9125
+Assam,Dibrugarh,November,81,27.4705,94.9125
+Assam,Dibrugarh,December,82,27.4705,94.9125
+Assam,Guwahati,January,82,26.1158,91.7086
+Assam,Guwahati,February,65,26.1158,91.7086
+Assam,Guwahati,March,57,26.1158,91.7086
+Assam,Guwahati,April,68,26.1158,91.7086
+Assam,Guwahati,May,75,26.1158,91.7086
+Assam,Guwahati,June,81,26.1158,91.7086
+Assam,Guwahati,July,83,26.1158,91.7086
+Assam,Guwahati,August,82,26.1158,91.7086
+Assam,Guwahati,September,83,26.1158,91.7086
+Assam,Guwahati,October,82,26.1158,91.7086
+Assam,Guwahati,November,82,26.1158,91.7086
+Assam,Guwahati,December,82,26.1158,91.7086
+West Bengal,Kolkata,January,66,22.5726,88.3639
+West Bengal,Kolkata,February,58,22.5726,88.3639
+West Bengal,Kolkata,March,58,22.5726,88.3639
+West Bengal,Kolkata,April,66,22.5726,88.3639
+West Bengal,Kolkata,May,70,22.5726,88.3639
+West Bengal,Kolkata,June,77,22.5726,88.3639
+West Bengal,Kolkata,July,83,22.5726,88.3639
+West Bengal,Kolkata,August,83,22.5726,88.3639
+West Bengal,Kolkata,September,81,22.5726,88.3639
+West Bengal,Kolkata,October,73,22.5726,88.3639
+West Bengal,Kolkata,November,67,22.5726,88.3639
+West Bengal,Kolkata,December,68,22.5726,88.3639
+Karnataka,Bangalore,January,60,12.9716,77.5946
+Karnataka,Bangalore,February,52,12.9716,77.5946
+Karnataka,Bangalore,March,45,12.9716,77.5946
+Karnataka,Bangalore,April,51,12.9716,77.5946
+Karnataka,Bangalore,May,60,12.9716,77.5946
+Karnataka,Bangalore,June,72,12.9716,77.5946
+Karnataka,Bangalore,July,76,12.9716,77.5946
+Karnataka,Bangalore,August,79,12.9716,77.5946
+Karnataka,Bangalore,September,76,12.9716,77.5946
+Karnataka,Bangalore,October,73,12.9716,77.5946
+Karnataka,Bangalore,November,70,12.9716,77.5946
+Karnataka,Bangalore,December,68,12.9716,77.5946
+Tamil Nadu,Chennai,January,73,13.0827,80.2707
+Tamil Nadu,Chennai,February,72,13.0827,80.2707
+Tamil Nadu,Chennai,March,70,13.0827,80.2707
+Tamil Nadu,Chennai,April,69,13.0827,80.2707
+Tamil Nadu,Chennai,May,62,13.0827,80.2707
+Tamil Nadu,Chennai,June,57,13.0827,80.2707
+Tamil Nadu,Chennai,July,64,13.0827,80.2707
+Tamil Nadu,Chennai,August,66,13.0827,80.2707
+Tamil Nadu,Chennai,September,72,13.0827,80.2707
+Tamil Nadu,Chennai,October,77,13.0827,80.2707
+Tamil Nadu,Chennai,November,78,13.0827,80.2707
+Tamil Nadu,Chennai,December,77,13.0827,80.2707
+Telangana,Hyderabad,January,56,17.385,78.4867
+Telangana,Hyderabad,February,49,17.385,78.4867
+Telangana,Hyderabad,March,39,17.385,78.4867
+Telangana,Hyderabad,April,37,17.385,78.4867
+Telangana,Hyderabad,May,39,17.385,78.4867
+Telangana,Hyderabad,June,61,17.385,78.4867
+Telangana,Hyderabad,July,71,17.385,78.4867
+Telangana,Hyderabad,August,74,17.385,78.4867
+Telangana,Hyderabad,September,72,17.385,78.4867
+Telangana,Hyderabad,October,63,17.385,78.4867
+Telangana,Hyderabad,November,58,17.385,78.4867
+Telangana,Hyderabad,December,57,17.385,78.4867
+Lakshadweep,Minicoy,January,74,8.274,73.0496
+Lakshadweep,Minicoy,February,74,8.274,73.0496
+Lakshadweep,Minicoy,March,72,8.274,73.0496
+Lakshadweep,Minicoy,April,73,8.274,73.0496
+Lakshadweep,Minicoy,May,76,8.274,73.0496
+Lakshadweep,Minicoy,June,80,8.274,73.0496
+Lakshadweep,Minicoy,July,79,8.274,73.0496
+Lakshadweep,Minicoy,August,80,8.274,73.0496
+Lakshadweep,Minicoy,September,79,8.274,73.0496
+Lakshadweep,Minicoy,October,78,8.274,73.0496
+Lakshadweep,Minicoy,November,77,8.274,73.0496
+Lakshadweep,Minicoy,December,76,8.274,73.0496
+Tamil Nadu,Pamban Island,January,77,9.2742,79.2911
+Tamil Nadu,Pamban Island,February,74,9.2742,79.2911
+Tamil Nadu,Pamban Island,March,72,9.2742,79.2911
+Tamil Nadu,Pamban Island,April,73,9.2742,79.2911
+Tamil Nadu,Pamban Island,May,75,9.2742,79.2911
+Tamil Nadu,Pamban Island,June,75,9.2742,79.2911
+Tamil Nadu,Pamban Island,July,74,9.2742,79.2911
+Tamil Nadu,Pamban Island,August,75,9.2742,79.2911
+Tamil Nadu,Pamban Island,September,76,9.2742,79.2911
+Tamil Nadu,Pamban Island,October,78,9.2742,79.2911
+Tamil Nadu,Pamban Island,November,80,9.2742,79.2911
+Tamil Nadu,Pamban Island,December,82,9.2742,79.2911
+Andaman & Nicobar,Port Blair,January,74,11.6234,92.7265
+Andaman & Nicobar,Port Blair,February,72,11.6234,92.7265
+Andaman & Nicobar,Port Blair,March,71,11.6234,92.7265
+Andaman & Nicobar,Port Blair,April,72,11.6234,92.7265
+Andaman & Nicobar,Port Blair,May,80,11.6234,92.7265
+Andaman & Nicobar,Port Blair,June,84,11.6234,92.7265
+Andaman & Nicobar,Port Blair,July,84,11.6234,92.7265
+Andaman & Nicobar,Port Blair,August,85,11.6234,92.7265
+Andaman & Nicobar,Port Blair,September,85,11.6234,92.7265
+Andaman & Nicobar,Port Blair,October,83,11.6234,92.7265
+Andaman & Nicobar,Port Blair,November,80,11.6234,92.7265
+Andaman & Nicobar,Port Blair,December,75,11.6234,92.7265
+Kerala,Thiruvanan­thapuram,January,69,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,February,70,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,March,72,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,April,77,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,May,79,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,June,85,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,July,84,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,August,83,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,September,82,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,October,83,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,November,82,8.5241,76.9366
+Kerala,Thiruvanan­thapuram,December,74,8.5241,76.9366
+Andhra Pradesh,Vishakhapatnam,January,71,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,February,70,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,March,69,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,April,71,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,May,69,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,June,71,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,July,76,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,August,77,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,September,78,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,October,74,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,November,68,17.6868,83.2185
+Andhra Pradesh,Vishakhapatnam,December,67,17.6868,83.2185
+Gujarat,Ahmedabad,January,48,23.0225,72.5714
+Gujarat,Ahmedabad,February,43,23.0225,72.5714
+Gujarat,Ahmedabad,March,37,23.0225,72.5714
+Gujarat,Ahmedabad,April,41,23.0225,72.5714
+Gujarat,Ahmedabad,May,47,23.0225,72.5714
+Gujarat,Ahmedabad,June,62,23.0225,72.5714
+Gujarat,Ahmedabad,July,77,23.0225,72.5714
+Gujarat,Ahmedabad,August,81,23.0225,72.5714
+Gujarat,Ahmedabad,September,71,23.0225,72.5714
+Gujarat,Ahmedabad,October,53,23.0225,72.5714
+Gujarat,Ahmedabad,November,48,23.0225,72.5714
+Gujarat,Ahmedabad,December,50,23.0225,72.5714
+Rajasthan,Kota,January,48,25.2138,75.8648
+Rajasthan,Kota,February,38,25.2138,75.8648
+Rajasthan,Kota,March,25,25.2138,75.8648
+Rajasthan,Kota,April,19,25.2138,75.8648
+Rajasthan,Kota,May,23,25.2138,75.8648
+Rajasthan,Kota,June,43,25.2138,75.8648
+Rajasthan,Kota,July,67,25.2138,75.8648
+Rajasthan,Kota,August,74,25.2138,75.8648
+Rajasthan,Kota,September,58,25.2138,75.8648
+Rajasthan,Kota,October,40,25.2138,75.8648
+Rajasthan,Kota,November,41,25.2138,75.8648
+Rajasthan,Kota,December,48,25.2138,75.8648
+Maharashtra,Mumbai,January,69,19.076,72.8777
+Maharashtra,Mumbai,February,67,19.076,72.8777
+Maharashtra,Mumbai,March,69,19.076,72.8777
+Maharashtra,Mumbai,April,71,19.076,72.8777
+Maharashtra,Mumbai,May,70,19.076,72.8777
+Maharashtra,Mumbai,June,80,19.076,72.8777
+Maharashtra,Mumbai,July,86,19.076,72.8777
+Maharashtra,Mumbai,August,86,19.076,72.8777
+Maharashtra,Mumbai,September,74,19.076,72.8777
+Maharashtra,Mumbai,October,80,19.076,72.8777
+Maharashtra,Mumbai,November,70,19.076,72.8777
+Maharashtra,Mumbai,December,69,19.076,72.8777
+Maharashtra,Nagpur,January,54,21.1458,79.0882
+Maharashtra,Nagpur,February,43,21.1458,79.0882
+Maharashtra,Nagpur,March,30,21.1458,79.0882
+Maharashtra,Nagpur,April,24,21.1458,79.0882
+Maharashtra,Nagpur,May,27,21.1458,79.0882
+Maharashtra,Nagpur,June,55,21.1458,79.0882
+Maharashtra,Nagpur,July,77,21.1458,79.0882
+Maharashtra,Nagpur,August,80,21.1458,79.0882
+Maharashtra,Nagpur,September,74,21.1458,79.0882
+Maharashtra,Nagpur,October,61,21.1458,79.0882
+Maharashtra,Nagpur,November,55,21.1458,79.0882
+Maharashtra,Nagpur,December,56,21.1458,79.0882
+Goa,Panaji,January,67,15.4909,73.8278
+Goa,Panaji,February,69,15.4909,73.8278
+Goa,Panaji,March,71,15.4909,73.8278
+Goa,Panaji,April,71,15.4909,73.8278
+Goa,Panaji,May,71,15.4909,73.8278
+Goa,Panaji,June,85,15.4909,73.8278
+Goa,Panaji,July,88,15.4909,73.8278
+Goa,Panaji,August,89,15.4909,73.8278
+Goa,Panaji,September,86,15.4909,73.8278
+Goa,Panaji,October,80,15.4909,73.8278
+Goa,Panaji,November,70,15.4909,73.8278
+Goa,Panaji,December,64,15.4909,73.8278
+Maharashtra,Pune,January,58,18.5204,73.8567
+Maharashtra,Pune,February,46,18.5204,73.8567
+Maharashtra,Pune,March,36,18.5204,73.8567
+Maharashtra,Pune,April,36,18.5204,73.8567
+Maharashtra,Pune,May,48,18.5204,73.8567
+Maharashtra,Pune,June,70,18.5204,73.8567
+Maharashtra,Pune,July,79,18.5204,73.8567
+Maharashtra,Pune,August,82,18.5204,73.8567
+Maharashtra,Pune,September,78,18.5204,73.8567
+Maharashtra,Pune,October,64,18.5204,73.8567
+Maharashtra,Pune,November,58,18.5204,73.8567
+Maharashtra,Pune,December,58,18.5204,73.8567
